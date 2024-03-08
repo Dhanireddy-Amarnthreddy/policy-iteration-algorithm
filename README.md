@@ -96,14 +96,19 @@ def policy_iteration(P, gamma=0.9, theta=1e-10):
 ## OUTPUT:
 ### Adversarial Policy:
 <img width="542" alt="image" src="https://github.com/Dhanireddy-Amarnthreddy/policy-iteration-algorithm/assets/94165103/305e430d-f1e3-4b2f-b0ca-d1ab55f76068">
+<br>
 <img width="511" alt="image" src="https://github.com/Dhanireddy-Amarnthreddy/policy-iteration-algorithm/assets/94165103/0940e68e-6a35-49ab-85a6-3f225fa2839d">
+<br>
 <img width="450" alt="image" src="https://github.com/Dhanireddy-Amarnthreddy/policy-iteration-algorithm/assets/94165103/20a8f809-bf29-41be-b489-f3f469b7099c">
+
 
 
 
 ### Optimal Policy with Gamma = 0.90:
 ![Screenshot 2024-03-08 111937](https://github.com/Dhanireddy-Amarnthreddy/policy-iteration-algorithm/assets/94165103/4e677ac2-00d4-482b-8ec7-f9ee9ef9813b)
+<br>
 <img width="533" alt="image" src="https://github.com/Dhanireddy-Amarnthreddy/policy-iteration-algorithm/assets/94165103/2a3dbff9-4ff4-412c-9791-9fb0677990ba">
+<br>
 ![Screenshot 2024-03-08 112153](https://github.com/Dhanireddy-Amarnthreddy/policy-iteration-algorithm/assets/94165103/16d4db8d-4ce9-4576-9e03-aa73b6511fc8)
 
 
