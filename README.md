@@ -94,24 +94,45 @@ def policy_iteration(P, gamma=0.9, theta=1e-10):
     return V, pi
 ~~~
 ## OUTPUT:
-### Adversarial Policy:
-<img width="542" alt="image" src="https://github.com/Dhanireddy-Amarnthreddy/policy-iteration-algorithm/assets/94165103/305e430d-f1e3-4b2f-b0ca-d1ab55f76068">
-<br>
-<img width="511" alt="image" src="https://github.com/Dhanireddy-Amarnthreddy/policy-iteration-algorithm/assets/94165103/0940e68e-6a35-49ab-85a6-3f225fa2839d">
-<br>
-<img width="450" alt="image" src="https://github.com/Dhanireddy-Amarnthreddy/policy-iteration-algorithm/assets/94165103/20a8f809-bf29-41be-b489-f3f469b7099c">
+### Adversarial Policy :
 
+![out2](https://github.com/anto-richard/policy-iteration-algorithm/assets/93427534/bcaa6e9f-9970-4966-84ac-e9e61f5d9330)
 
+### Goal percentage of adversarial policy :
 
+![out3](https://github.com/anto-richard/policy-iteration-algorithm/assets/93427534/c97d02e1-591e-45d1-badd-1ae25e788e05)
 
-### Optimal Policy with Gamma = 0.90:
-![Screenshot 2024-03-08 111937](https://github.com/Dhanireddy-Amarnthreddy/policy-iteration-algorithm/assets/94165103/4e677ac2-00d4-482b-8ec7-f9ee9ef9813b)
-<br>
-<img width="533" alt="image" src="https://github.com/Dhanireddy-Amarnthreddy/policy-iteration-algorithm/assets/94165103/2a3dbff9-4ff4-412c-9791-9fb0677990ba">
-<br>
-![Screenshot 2024-03-08 112153](https://github.com/Dhanireddy-Amarnthreddy/policy-iteration-algorithm/assets/94165103/16d4db8d-4ce9-4576-9e03-aa73b6511fc8)
+### Adversarial policy state-value function :
 
+![out4](https://github.com/anto-richard/policy-iteration-algorithm/assets/93427534/38a0d0f6-41a5-4f00-b86c-c59838f236d7)
 
+### Policy after improvement :
+
+![out5](https://github.com/anto-richard/policy-iteration-algorithm/assets/93427534/b5e110a8-7895-4c20-868a-8f9b112f1e5d)
+
+### Goal percentage of improved policy :
+
+![out6](https://github.com/anto-richard/policy-iteration-algorithm/assets/93427534/6d21ae49-71de-47f4-867c-13cc42b6c99e)
+
+### Improved policy state-value function :
+
+![out7](https://github.com/anto-richard/policy-iteration-algorithm/assets/93427534/4ca3aca4-f5b5-4411-8d26-5a4d537c5dd9)
+
+### Comparing the initial and the improved policy :
+
+![out8](https://github.com/anto-richard/policy-iteration-algorithm/assets/93427534/1bac5193-b4ae-4476-99a0-b3714276649f)
+
+### Optimal policy (PI) :
+
+![out9](https://github.com/anto-richard/policy-iteration-algorithm/assets/93427534/65ea4272-caea-4907-a2ca-bd68330757a6)
+
+### Goal percentage of optimal policy :
+
+![out10](https://github.com/anto-richard/policy-iteration-algorithm/assets/93427534/a32de6e2-f09c-4639-98c7-f06586095eff)
+
+### Optimal policy state-value function :
+
+![out11](https://github.com/anto-richard/policy-iteration-algorithm/assets/93427534/e996acbc-2243-426f-8b81-27a24fc72bfc)
 
 ## RESULT:
 Thus, a Python program is developed to find the optimal policy for the given MDP using the policy iteration algorithm.
