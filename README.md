@@ -30,10 +30,10 @@ The agent receives a reward of +1 for reaching the goal state (G). The agent rec
 ### Graphical Representation:
 ![image](https://github.com/AavulaTharun/policy-iteration-algorithm/assets/93427201/1400b5c5-b276-4da1-a657-e027592923c4)
 
-```
+
 ## NAME:D.Amarnath Reddy
 ## REG NO:212221240012
-```
+
 ## POLICY ITERATION ALGORITHM
 The algorithm implemented in the policy_iteration is a method used to find the optimal policy in a Markov decision process (MDP). Here's a step-by-step explanation of the algorithm:
 
