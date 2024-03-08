@@ -95,11 +95,18 @@ def policy_iteration(P, gamma=0.9, theta=1e-10):
 ~~~
 ## OUTPUT:
 ### Adversarial Policy:
+<img width="542" alt="image" src="https://github.com/Dhanireddy-Amarnthreddy/policy-iteration-algorithm/assets/94165103/305e430d-f1e3-4b2f-b0ca-d1ab55f76068">
+<img width="511" alt="image" src="https://github.com/Dhanireddy-Amarnthreddy/policy-iteration-algorithm/assets/94165103/0940e68e-6a35-49ab-85a6-3f225fa2839d">
+<img width="450" alt="image" src="https://github.com/Dhanireddy-Amarnthreddy/policy-iteration-algorithm/assets/94165103/20a8f809-bf29-41be-b489-f3f469b7099c">
 
-![image](https://github.com/AavulaTharun/policy-iteration-algorithm/assets/93427201/00270975-c30b-4c49-80ac-391fea10334d)
+
 
 ### Optimal Policy with Gamma = 0.90:
-![image](https://github.com/AavulaTharun/policy-iteration-algorithm/assets/93427201/177e607a-244c-425f-84ea-91d97942d5c5)
+![Screenshot 2024-03-08 111937](https://github.com/Dhanireddy-Amarnthreddy/policy-iteration-algorithm/assets/94165103/4e677ac2-00d4-482b-8ec7-f9ee9ef9813b)
+<img width="533" alt="image" src="https://github.com/Dhanireddy-Amarnthreddy/policy-iteration-algorithm/assets/94165103/2a3dbff9-4ff4-412c-9791-9fb0677990ba">
+![Screenshot 2024-03-08 112153](https://github.com/Dhanireddy-Amarnthreddy/policy-iteration-algorithm/assets/94165103/16d4db8d-4ce9-4576-9e03-aa73b6511fc8)
+
+
 
 ## RESULT:
 Thus, a Python program is developed to find the optimal policy for the given MDP using the policy iteration algorithm.
